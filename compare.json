@@ -1,0 +1,50 @@
+[
+ {"theme": "Verifying a candidate",
+  "change": "The 2010 text adds explicit multi-facility checks and says work in progress need not be disclosed. The 2026 text asks for independent checks with different instruments and methods, and accepts that verification may be long and inconclusive.",
+  "cells": {
+   "1989": {"p": [1, 2], "gist": "Verify that extraterrestrial intelligence is the most plausible explanation before announcing, and privately alert the other parties and national authorities first."},
+   "2010": {"p": [2], "gist": "Verify with other investigators at more than one facility. No obligation to disclose while verifying, and no premature disclosure. Use the Rio Scale to convey significance."},
+   "2026": {"p": [1], "gist": "Authenticate with independent observations by several facilities and organisations using different instruments and methods, recognising that results may be ambiguous."}}},
+ {"theme": "Openness and the media",
+  "change": "Absent in 1989. The 2010 text commits to transparency. The 2026 text adds researcher safety, a right to decline media engagement, rumour control and prompt retraction of false positives.",
+  "cells": {
+   "1989": {"p": [], "gist": "No equivalent principle."},
+   "2010": {"p": [1], "gist": "Searches are conducted transparently. Practitioners may report freely and respond to the media."},
+   "2026": {"p": [2], "gist": "Individuals may decline to engage with the media; institutions protect their researchers, answer enquiries accurately, correct rumours and promptly disclose candidates that turn out not to be extraterrestrial."}}},
+ {"theme": "Announcing a confirmed detection",
+  "change": "The notification lists change with the institutions. The 2026 text requires a peer-reviewed verification report that follows best practice in risk communication.",
+  "cells": {
+   "1989": {"p": [3, 4], "gist": "Notify the IAU telegram bureau, the UN Secretary-General and a list of international bodies, then disseminate promptly and openly. The discoverer makes the first announcement."},
+   "2010": {"p": [3], "gist": "Once others agree the evidence is credible, report fully and openly to the public, scientists and the UN Secretary-General, with a formal report to the IAU."},
+   "2026": {"p": [3], "gist": "Report promptly to the public, scientists and the UN Secretary-General in a peer-reviewed verification report, also sent to the IAA, IAU, COSPAR, IISL, ITU, COPUOS and UNOOSA."}}},
+ {"theme": "Sharing and archiving data",
+  "change": "Permanent archiving has been a constant. The 2026 text adds analysis methods and code, two geographically separate repositories and open formats.",
+  "cells": {
+   "1989": {"p": [5, 6], "gist": "Make data available to the scientific community, and record and store it permanently for further analysis."},
+   "2010": {"p": [4, 5], "gist": "Publish the data needed for confirmation, monitor the discovery and store the data permanently."},
+   "2026": {"p": [4], "gist": "Preserve data with methods and code, archive in at least two repositories in different locations, and use open standard formats."}}},
+ {"theme": "Protecting the frequencies",
+  "change": "Unchanged in substance: protection through the ITU. The 2026 text widens it to protecting the evidence itself, with tamper-proof records.",
+  "cells": {
+   "1989": {"p": [7], "gist": "Seek ITU protection of the frequencies, including an extraordinary radio conference if needed."},
+   "2010": {"p": [6], "gist": "Seek international agreement to protect the frequencies through the ITU's extraordinary procedures."},
+   "2026": {"p": [5], "gist": "Protect the evidence with tamper-proof records and precautionary protocols, and the frequencies through the ITU."}}},
+ {"theme": "A post-detection body",
+  "change": "From an international committee to be convened after a detection (1989), to a task group (2010), to a standing interdisciplinary sub-committee (2026).",
+  "cells": {
+   "1989": {"p": [9], "gist": "The IAA SETI Committee keeps procedures under review and maintains a list of experts for an international committee to be formed after a credible detection."},
+   "2010": {"p": [7], "gist": "A Post-Detection Task Group advises on matters arising from a confirmed signal."},
+   "2026": {"p": [6], "gist": "A standing Post-Detection Sub-Committee spanning science, ethics, law, social sciences and communication, supported by the IAA."}}},
+ {"theme": "Replying",
+  "change": "The one principle carried through every version: no reply until humanity has been consulted.",
+  "cells": {
+   "1989": {"p": [8], "gist": "No response until appropriate international consultations have taken place, under a separate agreement."},
+   "2010": {"p": [8], "gist": "No response without first seeking the guidance and consent of a broadly representative international body such as the United Nations."},
+   "2026": {"p": [7], "gist": "Cooperate with international consultations through the UN and similar bodies. No reply pending their outcome."}}},
+ {"theme": "Ethics and law",
+  "change": "New in 2026.",
+  "cells": {
+   "1989": {"p": [], "gist": "No equivalent principle."},
+   "2010": {"p": [], "gist": "No equivalent principle."},
+   "2026": {"p": [8], "gist": "Uphold the highest ethical standards, and work with legal authorities and ethicists on handling and disseminating evidence."}}}
+]
